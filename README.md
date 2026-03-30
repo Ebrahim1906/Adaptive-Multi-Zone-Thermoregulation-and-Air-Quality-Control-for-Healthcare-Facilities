@@ -1,0 +1,2 @@
+# Adaptive-Multi-Zone-Thermoregulation-and-Air-Quality-Control-for-Healthcare-Facilities
+-> IoT-based multi-zonal system for adaptive thermoregulation and environmental monitoring in healthcare facilities.-> Sensor integration with wireless transmission and adaptive algorithms improves patient safety and operational efficiency. -> Future scope: CO₂ and particulate sensors with machine learning for predictive environmental control.
